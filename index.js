@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 const fivereborn = require('fivereborn-query');
 bot.commands = new Discord.Collection();
 
-const token = 'ODc2MDg1MjM4MTMwOTUwMTg0.YRe79Q.1nEBuppwf_Nts_3WtnLdvU-yF6A'; // 🎈 Here put the Token of your bot
+const token = ''; // 🎈 Here put the Token of your bot
 
 
 
