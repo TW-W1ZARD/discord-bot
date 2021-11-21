@@ -53,4 +53,4 @@ function activity(){
 }
 activity();
 
-bot.login(process.env.TOKEN)
+client.login(process.env.TOKEN)
